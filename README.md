@@ -47,6 +47,13 @@
 
 ![999](https://github.com/user-attachments/assets/ab0c33e7-4646-43d7-8038-ba623210eab1)
 
+
+---
+![8888](https://github.com/user-attachments/assets/16becfb6-e66f-4981-9de5-48277d928255)
+
+---
+![11110000](https://github.com/user-attachments/assets/5bd234f7-e60f-43e9-96f1-531251eda525)
+
 ---
 
 ## פרטי היוצרת:
@@ -57,10 +64,3 @@
 ## 💡 פידבקים  
 נשמח לשמוע מכם! אם יש לכם רעיונות לשיפור האתר, פתחו **Issue** ברפוזיטורי או שלחו הודעה.  
 
-
-
----
-![8888](https://github.com/user-attachments/assets/16becfb6-e66f-4981-9de5-48277d928255)
-
----
-![11110000](https://github.com/user-attachments/assets/5bd234f7-e60f-43e9-96f1-531251eda525)
